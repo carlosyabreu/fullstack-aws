@@ -1,1 +1,1 @@
-# Fullsta-AWS Application
+Fullstack AWS Application
